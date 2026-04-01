@@ -11,14 +11,11 @@
 
 ## 🏢 Experience
 **DAQUV** (현재 재직 중)
-- **Enterprise AI Agent & LLM 개발**
-  - LangChain, LangGraph를 활용한 Text-to-SQL(NL2SQL) 에이전트 아키텍처 설계 및 구현
-  - VectorDB(Milvus, Chroma), DuckDB 연동 및 Dynamic Few-shot 환경 구축
+- **Enterprise AI Agent & LLM 학습**
+  - LangChain, LangGraph를 활용한 Text-to-SQL(NL2SQL) 에이전트 아키텍처 설계 및 학습
+  - VectorDB(Milvus, Chroma), DuckDB 연동 및 Dynamic Few-shot 환경 데이터 학습
 - **Data Engineering**
   - dbt 및 MetricFlow를 활용한 시멘틱 모델링 및 기업용 데이터 파이프라인 구축
-- **Backend & Infra**
-  - Python 기반 백엔드 API 개발 (MVC 패턴 리팩토링, JWT 로그인 등)
-  - Docker 컨테이너 기반 서버 환경 구성 및 배포, Pyarmor/Nuitka 활용 보안 최적화
 - **Service Planning & Project Management**
   - POSCO DX AI 음성/챗봇 서비스 및 AI CFO 프로젝트 리딩
   - 기획, UI/UX(Figma), API 정합성 테스트(Postman) 및 유관 부서 커뮤니케이션 주도
