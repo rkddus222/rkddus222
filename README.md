@@ -33,9 +33,4 @@
 ## 🚀 Personal Projects & Interests
 - 주식 및 암호화폐 자동 매매 알고리즘 고도화
 - 부동산 매물 관리 시스템 아키텍처 설계 및 구현
-- SQL 최적화 및 데이터베이스 성능 향상 연구 (SQLD 준비)
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rkddus222&show_icons=true&theme=transparent&hide_border=true&title_color=3776AB&icon_color=3776AB&text_color=000000" />
-</div>
+- SQL 최적화 및 데이터베이스 성능 향상 연구
